@@ -5,7 +5,8 @@ import AIChatPanel from "../components/AIChatPanel"
 
 const HomeScreen = () => {
 
-   const apiKey = "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"
+   const apiKey = "**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";
+
 
    return (
       <SafeAreaView style={{ flex: 1 }}>
