@@ -5,7 +5,7 @@ import AIChatPanel from "../components/AIChatPanel"
 
 const HomeScreen = () => {
 
-   const apiKey = "s**k-jRT9aFJqciz019fluST1T3BlbkFJ7AHPosLfAit5yqb3YNEi"
+   const apiKey = "s*k-jRT9aFJqciz019fluST1T3BlbkFJ7AHPosLfAit5yqb3YNEi"
 
 
    return (
