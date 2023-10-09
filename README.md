@@ -2,7 +2,7 @@
 
 This application features a chat component that enables users to interact with artificial intelligence.
 
-### Project Highlights:
+#### Project Highlights:
 
 - Animated chat panel
 - GPT-3.5 Turbo model fine-tuned with 30 questions using data from https://www.dietdoctor.com/about
